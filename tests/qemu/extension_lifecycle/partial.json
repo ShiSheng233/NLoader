@@ -1,0 +1,9 @@
+{
+  "id": "partial",
+  "kind": "resource_extension",
+  "display_name": "Partial extension",
+  "file": "APPS/PARTIAL.NLB",
+  "min_abi": 2,
+  "abi_version": 2,
+  "models": "z8/3.11"
+}

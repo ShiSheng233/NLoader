@@ -1,0 +1,9 @@
+{
+  "id": "data_test",
+  "kind": "foreground",
+  "display_name": "Data and BSS",
+  "file": "APPS/DATA.NLB",
+  "min_abi": 2,
+  "abi_version": 2,
+  "models": "z8/3.11"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "loop",
+  "kind": "foreground",
+  "display_name": "Loop",
+  "file": "APPS/LOOP.NLB",
+  "min_abi": 2,
+  "abi_version": 2,
+  "models": "Z8/3.11"
+}

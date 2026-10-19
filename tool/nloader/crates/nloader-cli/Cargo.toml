@@ -1,0 +1,19 @@
+[package]
+name = "nloader-cli"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+publish.workspace = true
+
+[[bin]]
+name = "nloader"
+path = "src/main.rs"
+
+[dependencies]
+nloader-sdk.workspace = true
+clap.workspace = true
+serde_json.workspace = true
+
+[dev-dependencies]
+tempfile.workspace = true
+sha1.workspace = true

@@ -1,0 +1,8 @@
+{
+  "id": "dialogs",
+  "kind": "foreground",
+  "display_name": "Dialogs",
+  "file": "APPS/DIALOGS.NLB",
+  "min_abi": 6,
+  "models": "Z8/3.11"
+}

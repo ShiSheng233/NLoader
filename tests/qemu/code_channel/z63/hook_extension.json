@@ -1,0 +1,8 @@
+{
+  "id": "hook_extension",
+  "kind": "resource_extension",
+  "display_name": "Hook extension",
+  "file": "APPS/HOOKX.NLB",
+  "min_abi": 5,
+  "models": "Z6III/2.00"
+}

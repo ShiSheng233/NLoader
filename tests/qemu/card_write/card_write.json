@@ -1,0 +1,8 @@
+{
+  "id": "card_write",
+  "kind": "foreground",
+  "display_name": "Card write",
+  "file": "APPS/CARDW.NLB",
+  "min_abi": 5,
+  "models": "z8/3.11"
+}

@@ -1,0 +1,3 @@
+[submodule "sdk/examples"]
+	path = sdk/examples
+	url = git@github.com:ShiSheng233/NLoader-apps.git

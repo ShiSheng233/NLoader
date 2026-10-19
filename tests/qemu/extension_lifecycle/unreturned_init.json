@@ -1,0 +1,9 @@
+{
+  "id": "unreturned_init",
+  "kind": "resource_extension",
+  "display_name": "Unreturned init",
+  "file": "APPS/UNRETURNED.NLB",
+  "min_abi": 2,
+  "abi_version": 2,
+  "models": "z8/3.11"
+}

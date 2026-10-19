@@ -1,0 +1,11 @@
+.DS_Store
+
+/tool/nloader/keys/
+/tool/nloader/target/
+/bindings/
+/build/
+/firmware/
+/profiles/**/*.toml
+/tests/qemu/**/__pycache__/
+
+.claude/

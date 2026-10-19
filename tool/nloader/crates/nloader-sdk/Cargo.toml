@@ -1,0 +1,20 @@
+[package]
+name = "nloader-sdk"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+publish.workspace = true
+
+[dependencies]
+nloader-profile.workspace = true
+nloader-camera.workspace = true
+nloader-profile-gen.workspace = true
+nloader-firmware.workspace = true
+nloader-build.workspace = true
+thiserror.workspace = true
+serde_json.workspace = true
+serde.workspace = true
+tempfile.workspace = true
+
+[dev-dependencies]
+sha1.workspace = true
